@@ -1,0 +1,7 @@
+{
+	"source_code":"https://github.com/ganeshhyc/typescriptBasics/tree/master/typescript",
+	"live_" :{ 
+			"youtube":"https://ganeshhyc.github.io/typescriptBasics/typescript/youtube/index.html"},
+			"facebook":"https://ganeshhyc.github.io/typescriptBasics/typescript/facebook/index.html"}
+		}
+}
